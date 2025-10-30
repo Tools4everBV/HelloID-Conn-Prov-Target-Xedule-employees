@@ -12,7 +12,8 @@ HelloID koppelt je bronsystemen (bijv. HR of studentinformatiesystemen) aan Xedu
 
 ## Xedule via HelloID koppelen met bronsystemen
 HelloID maakt het koppelen van Xedule met bronsystemen eenvoudig en betrouwbaar. Door Xedule als doelsysteem te koppelen aan HR-systemen, leerlingadministratiesystemen (LAS) en studenteninformatiesystemen (SIS), wordt het aanmaken en beheren van accounts grotendeels geautomatiseerd. Veelvoorkomende koppelingen zijn:
-* **AFAS – IPassan koppeling**
+
+* **AFAS – Xedule koppeling**
 Met de koppeling tussen AFAS en Xedule via HelloID worden personeelsmutaties volledig geautomatiseerd verwerkt. Zodra een medewerker wordt aangemaakt of gewijzigd in AFAS, vertaalt HelloID deze wijziging direct naar Xedule. Nieuwe medewerkers zijn daardoor meteen zichtbaar in het roosterproces, en actuele HR-gegevens blijven altijd synchroon tussen beide systemen.
-* **Somtoday – IPassan koppeling**
+* **Somtoday – Xedule koppeling**
 Door Somtoday via HelloID te koppelen aan Xedule worden leerlinggegevens automatisch overgezet. Nieuwe leerlingen worden na inschrijving direct in Xedule aangemaakt en basisgegevens, zoals naam en e-mailadres, blijven automatisch up-to-date. Zo beschik je altijd over actuele gebruikersinformatie, zonder handmatig beheer.
